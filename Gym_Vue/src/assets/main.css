@@ -1,0 +1,16 @@
+/*CDN-fonts: */
+@import url('https://fonts.cdnfonts.com/css/montserrat-alternates');
+/*
+font-family: 'Montserrat Alternates', sans-serif;
+*/
+@import url('https://fonts.cdnfonts.com/css/metal-mania-2');
+/*
+font-family: 'Metal Mania', sans-serif;
+*/
+
+/*inställningar för body*/
+body {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
